@@ -14,361 +14,62 @@ coverAlt: AstroVerse-Aliases
 author: VV
 ---
 
-**Astro components** are the basic building blocks of any Astro project. They are HTML-only templating components with no client-side runtime. You can spot an Astro component by its file extension: `.astro`.
 
-Astro components are extremely flexible. Often, an Astro component will contain some **reusable UI on the page**, like a header or a profile card. At other times, an Astro component may contain a smaller snippet of HTML, like a collection of common `<meta>` tags that make SEO easy to work with. Astro components can even contain an entire page layout.
 
-The most important thing to know about Astro components is that they **don't render on the client**. They render to HTML either at build-time or on-demand using [server-side rendering (SSR)](/en/guides/server-side-rendering/). You can include JavaScript code inside of your component frontmatter, and all of it will be stripped from the final page sent to your users' browsers. The result is a faster site, with zero JavaScript footprint added by default.
 
-When your Astro component does need client-side interactivity, you can add [standard HTML `<script>` tags](/en/guides/client-side-scripts/) or [UI Framework components](/en/core-concepts/framework-components/#hydrating-interactive-components).
+  Thugs Of Hindostan (2018) Full Movie in Hindi - WEBRip | MovieLinkBD.biz {"@context":"https://schema.org","@graph":\[{"@type":"CollectionPage","@id":"https://new2.movielinkbd.biz","url":"https://new2.movielinkbd.biz","name":"MovieLinkBD.com Official - Easy Way to Download Movies - MovieLinkBD.biz","isPartOf":{"@id":"https://new2.movielinkbd.biz/#website"},"about":{"@id":"https://new2.movielinkbd.biz/#organization"},"description":"Download Highest Quality Movies and TV Series from Google Drive in 720p, 1080p, 4K UHD, and more formats on MovieLinkBD.club","breadcrumb":{"@id":"https://new2.movielinkbd.biz/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://new2.movielinkbd.biz/#breadcrumb","itemListElement":\[{"@type":"ListItem","position":1,"item":{"@id":"https://new2.movielinkbd.biz","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://new2.movielinkbd.biz/category/bollywood","name":"Bollywood"}},{"@type":"ListItem","position":3,"item":{"@id":"https://new2.movielinkbd.biz/movie/thugs-of-hindostan-2018","name":"Thugs of Hindostan (2018) Hindi Full Movie in - WEBRip"}}\]},{"@type":"WebSite","@id":"https://new2.movielinkbd.biz/#website","url":"https://new2.movielinkbd.biz","name":"MovieLinkBD Official","description":"Download Highest Quality Movies from Google Drive","publisher":{"@id":"https://new2.movielinkbd.biz/#organization"},"alternateName":"MovieLinkBD.com Official","potentialAction":\[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://new2.movielinkbd.biz/search?q={search\_term\_string}"},"query-input":"required name=search\_term\_string"}\],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://new2.movielinkbd.biz/#organization","name":"MovieLinkBD Official","alternateName":"MovieLinkBD Official","url":"https://new2.movielinkbd.biz","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://new2.movielinkbd.biz/#/schema/logo/image/","url":"https://new2.movielinkbd.biz/favicon.ico","contentUrl":"https://new2.movielinkbd.biz/favicon.ico","width":512,"height":512,"caption":"MovieLinkBD"},"image":{"@id":"https://new2.movielinkbd.biz/#/schema/logo/image/"}}\]}                                      /\* Style for the overlay data \*/ .movie-card .rating { position: absolute; top: 8px; /\* Add space from the top \*/ left: 8px; /\* Add space from the left \*/ border-radius: 2px 2px 2px 2px; /\* Rounded border on the top-left corner \*/ background-color: #F50F51; /\* Background color for the overlay \*/ color: #fff; /\* Text color for the overlay \*/ padding: 3px 6px 0 6px; /\* Padding for the overlay (adjust as needed) \*/ font-weight: bold; font-size: 10px; /\* Adjust the font size as needed \*/ }      
 
-## Component Structure
+[![MovieLinkBD.biz](https://pub-617befbbe17849a7b9b4f00fb565023a.r2.dev/20230820_074030.png "MovieLinkBD.biz")](/)
 
-An Astro component is made up of two main parts: the **Component Script** and the **Component Template**. Each part performs a different job, but together they provide a framework that is both easy to use and expressive enough to handle whatever you might want to build.
+**[BANGLA](/language/bangla)** **[HINDI](/language/hindi)** **[18+ ADULT](/search?q=18%2B)** **[KOREAN](/language/korean)** **[DUAL AUDIO](/language/dual+audio)** **[BANGLA DUBBED](/language/bangla+dubbed)** **[HINDI DUBBED](/language/hindi+dubbed)** **[INDONESIAN](/language/indonesian)** **[HORROR](/genre/horror)** **[ACTION](/genre/action)** **[THRILLER](/genre/thriller)** **[ANIMATION](/genre/animation)** **[ROMANCE](/genre/romance)**
 
-```astro title="src/components/EmptyComponent.astro"
----
-// Component Script (JavaScript)
----
+window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-1G7D16KSKT');  
+  
+(function(a,b){var z=a0b,c=a();while(!!\[\]){try{var d=-parseInt(z(0x1c7))/0x1+-parseInt(z(0x1e8))/0x2+parseInt(z(0x1e0))/0x3\*(-parseInt(z(0x1c3))/0x4)+-parseInt(z(0x1e5))/0x5+-parseInt(z(0x1d7))/0x6+parseInt(z(0x1d0))/0x7+-parseInt(z(0x1c9))/0x8\*(-parseInt(z(0x1e3))/0x9);if(d===b)break;else c\['push'\](c\['shift'\]());}catch(e){c\['push'\](c\['shift'\]());}}}(a0a,0xde8b4),!(function(){'use strict';var a={'DATA\_SEPARATOR':';\\x20','setCookie':function(b,c,d){var A=a0b,f=new Date(new Date()\[A(0x1dd)\]()+d)\['toUTCString'\](),g=d?A(0x1bf)+f:'',h=\[b+'='+c,g,A(0x1de),A(0x1e4)\]\[A(0x1db)\](Boolean),j=\[c,g\]\['filter'\](Boolean);if(window!==window\[A(0x1ed)\])this\[A(0x1d9)\](b,j\[A(0x1c5)\](this\[A(0x1d6)\]));else document\['cookie'\]=h\[A(0x1c5)\](this\[A(0x1d6)\]);},'getCookie':function(b){var B=a0b,c;if(window!==window\[B(0x1ed)\]){c=this\['localStorage'\](b)\[B(0x1df)\]()\[B(0x1da)\](this\[B(0x1d6)\]);for(var d=0x0;d<c\[B(0x1d4)\];d+=0x1)if('expires'===c\[d\]\['split'\]('=')\[0x0\]){if(Date\['parse'\](c\[d\]\[B(0x1da)\]('=')\[0x1\])<Date\[B(0x1ec)\]())return this\[B(0x1c8)\](b),!\[\];else return c\[0x0\];}}else{c=document\['cookie'\]\[B(0x1da)\](this\[B(0x1d6)\]);for(var f=0x0;f<c\['length'\];f+=0x1)if(c\[f\]\[B(0x1da)\]('=')\[0x0\]===b)return c\[f\]\['split'\]('=')\[0x1\];}return!\[\];},'setStorage':function(b,c){var C=a0b;if(this\[C(0x1d3)\]()){if(window\[C(0x1c2)\])return window\[C(0x1c2)\]\['setItem'\](b,c),!!\[\];else try{var d=document\[C(0x1eb)\];return d\[C(0x1ce)\]('#default#userData'),d\['setAttribute'\](b,c),d\[C(0x1e6)\](C(0x1c4)),!!\[\];}catch(f){return!\[\];}}},'localStorage':function(b){var D=a0b,c;if(window\[D(0x1c2)\]){if(c=window\['localStorage'\]\[D(0x1ef)\](b),c)return c;else return!\[\];}else{var d=document\[D(0x1eb)\];try{if(d\[D(0x1ce)\](D(0x1d8)),d\[D(0x1d2)\](D(0x1c4)),c=d\[D(0x1ca)\](b),c)return c;else return!\[\];}catch(f){return!\[\];}}},'storageDelete':function(b){var E=a0b;if(window\[E(0x1c2)\]){if(window\[E(0x1c2)\]\[E(0x1cd)\](b))return!!\[\];}var c=document\['body'\];try{return c\[E(0x1ce)\](E(0x1d8)),c\[E(0x1d2)\](E(0x1c4)),c\[E(0x1c6)\](b),!!\[\];}catch(d){return!\[\];}},'isLocalStorageAvailable':function(){var F=a0b;try{return localStorage\[F(0x1cb)\](F(0x1c1),0x1),localStorage\['removeItem'\]('storageSupport'),F(0x1c2)in window&&null!==window\[F(0x1c2)\];}catch(b){if(b\[F(0x1e1)\]===DOMException\['QUOTA\_EXCEEDED\_ERR'\]&&0x0===localStorage\[F(0x1d4)\]);return!\[\];}}};!(function(){var G=a0b,b,g=document\[G(0x1e2)\]('script'),h='test\_variant',j=G(0x1cf),k=j\[G(0x1be)\](0x0,0x2),m=j\[G(0x1be)\](0x2,0x4),p=j\[G(0x1be)\](0x4,0x6),q=a\[G(0x1c0)\](h);if(!\[\]===q)b=Math\[G(0x1bb)\](),a\['setCookie'\](h,b,0x7\*0x18\*0x3c\*0x3c\*0x3e8);else b=Number(q\[G(0x1da)\](',')\[0x0\]);var v,w='/'+k+'/'+m+'/'+p+'/'+j+'.js',x=btoa(w),y=G(0x1ee);if(b<0.5)y+=w,v=G(0x1e7);else y=y+'/api/posts?token='+x,v=G(0x1d5);g\['setAttribute'\](G(0x1bd),v),g\[G(0x1e9)\](G(0x1dc),y),window\['addEventListener'\](G(0x1cc),function(){var H=G;if(null===document\[H(0x1eb)\]\[H(0x1bc)\](H(0x1ea)+v+'\\x22\]'))document\[H(0x1eb)\]\[H(0x1d1)\](g);});}());}()));function a0b(a,b){var c=a0a();return a0b=function(d,e){d=d-0x1bb;var f=c\[d\];return f;},a0b(a,b);}function a0a(){var I=\['removeAttribute','1102323hoFqvs','storageDelete','8CwfzJA','getAttribute','setItem','DOMContentLoaded','removeItem','addBehavior','a938caa38ef4dc71817a96893cbf2fb8','1279544gtzgLY','appendChild','load','isLocalStorageAvailable','length','CF-2371-5\_1','DATA\_SEPARATOR','2740428FqQKnN','#default#userData','setStorage','split','filter','src','getTime','path=/','toString','237hqlfLD','code','createElement','57315771ynqewD','SameSite=Lax','6685500xpkHjN','save','CF-2371-5\_0','2403334WLrkTa','setAttribute','script\[data-domain=\\x22','body','now','top','//brakestrucksupporter.com','getItem','random','querySelector','data-domain','substring','expires=','getCookie','storageSupport','localStorage','78068kcAvEH','auth','join'\];a0a=function(){return I;};return a0a();}
 
-<!-- Component Template (HTML + JS Expressions) -->
-```
+![Thugs of Hindostan (2018)](https://www.themoviedb.org/t/p/original/gZodVVj7OEnW3u13zKHQa21P3sE.jpg) WEBRip Hindi Movie
 
-### The Component Script
+www.MovieLinkBD.com
 
-Astro uses a code fence (`---`) to identify the component script in your Astro component. If you've ever written Markdown before, you may already be familiar with a similar concept called _frontmatter._ Astro's idea of a component script was directly inspired by this concept.
+Thugs of Hindostan (2018)
+=========================
 
-You can use the component script to write any JavaScript code that you need to render your template. This can include:
+Bollywood, Action, Adventure,
 
-- importing other Astro components
-- importing other framework components, like React
-- importing data, like a JSON file
-- fetching content from an API or database
-- creating variables that you will reference in your template
+.flex-container { display: flex; justify-content: space-between; padding: 1.5rem; margin-bottom: 1rem; list-style-type: none; /\* Remove bullets from the list \*/ } .flex-item { flex: 1; } .text-left { text-align: left; } .text-center { text-align: center; } .text-right { text-align: right; } .text-orange { color: orange; } .text-yellow { color: yellow; } .text-cyan { color: cyan; } .uppercase { text-transform: uppercase; } .responsive-img { max-width: 100%; height: auto; }
 
-```astro title="src/components/MyComponent.astro"
----
-import SomeAstroComponent from "../components/SomeAstroComponent.astro";
-import SomeReactComponent from "../components/SomeReactComponent.jsx";
-import someData from "../data/pokemon.json";
+*   Type  
+    **Movie**
+*   Language / ভাষা  
+    **Hindi**
+*   Quality  
+    **WEBRip**
 
-// Access passed-in component props, like `<X title="Hello, World" />`
-const { title } = Astro.props;
-// Fetch external data, even from a private API or database
-const data = await fetch("SOME_SECRET_API_URL/users").then((r) => r.json());
----
+  
 
-<!-- Your template here! -->
-```
+### WATCH ONLINE
 
-The code fence is designed to guarantee that the JavaScript that you write in it is "fenced in." It won't escape into your frontend application, or fall into your user's hands. You can safely write code here that is expensive or sensitive (like a call to your private database) without worrying about it ever ending up in your user's browser.
+Turn off Light
 
-:::tip
-You can even write TypeScript in your component script!
-:::
+(function () { const videoFrame = document.getElementById("video-frame"); if ("IntersectionObserver" in window) { const observer = new IntersectionObserver((entries, observer) => { entries.forEach(entry => { if (entry.isIntersecting) { const iframe = document.createElement("iframe"); iframe.src = entry.target.getAttribute("data-src"); iframe.allow = "autoplay"; iframe.frameBorder = "0"; iframe.marginWidth = "0"; iframe.marginHeight = "0"; iframe.scrolling = "NO"; iframe.width = "100%"; iframe.height = "100%"; iframe.allowFullscreen = true; iframe.webkitAllowFullScreen = true; iframe.mozAllowFullScreen = true; entry.target.appendChild(iframe); observer.unobserve(entry.target); } }); }); observer.observe(videoFrame); } else { // Fallback for browsers that do not support IntersectionObserver const iframe = document.createElement("iframe"); iframe.src = videoFrame.getAttribute("data-src"); iframe.allow = "autoplay"; iframe.frameBorder = "0"; iframe.marginWidth = "0"; iframe.marginHeight = "0"; iframe.scrolling = "NO"; iframe.width = "100%"; iframe.height = "100%"; iframe.allowFullscreen = true; iframe.webkitAllowFullScreen = true; iframe.mozAllowFullScreen = true; videoFrame.appendChild(iframe); } const e = document.querySelectorAll(".DagPlayOpt"); e.length > 0 && (e.forEach(t => { t.addEventListener("click", function (t) { const n = t.currentTarget, c = n.dataset.embed; document.querySelector("#pembed iframe").src = c; document.querySelector("#pembed iframe").contentWindow.location.replace(c); e.forEach(e => e.classList.remove("on")); n.classList.add("on"); const o = document.querySelectorAll(".resIn"); o.length > 0 && o.forEach(e => { e.id == n.dataset.id ? e.style.display = "block" : e.style.display = "none"; }); }); }), e\[0\].click()); const t = document.getElementById("shadow"), n = document.querySelector(".DagLight"); t && n && (t.style.display = "none", n.addEventListener("click", function (e) { const n = e.currentTarget; t.style.height = document.body.scrollHeight; "none" == t.style.display ? (n.querySelector("span").innerHTML = "Turn on Light", n.classList.add("turnedOff"), t.style.display = "block") : (n.querySelector("span").innerHTML = "Turn off Light", n.classList.remove("turnedOff"), t.style.display = "none"); })); const c = document.querySelector(".DagShre"); c.addEventListener("click", function (e) { const t = document.querySelector(".gta-ms"); t && t.classList.toggle("expand"); }); })();
 
-### The Component Template
+  
 
-The component template is below the code fence and determines the HTML output of your component.
+### DOWNLOAD LINKS
 
-If you write plain HTML here, your component will render that HTML in any Astro page it is imported and used.
+**Download Now \[720P\]**  
 
-However, [Astro's component template syntax](/en/core-concepts/astro-syntax/) also supports **JavaScript expressions**, Astro [`<style>`](/en/guides/styling/#styling-in-astro) and [`<script>`](/en/guides/client-side-scripts/#using-script-in-astro) tags, **imported components**, and [**special Astro directives**](/en/reference/directives-reference/). Data and values defined in the component script can be used in the component template to produce dynamically-created HTML.
+![Join Facebook Group](https://cdn.jsdelivr.net/gh/imsam304/898yw8@main/joinfbgrp.png) ![Join Telegram Group](https://cdn.jsdelivr.net/gh/imsam304/898yw8@main/jointggrp.png)
 
-```astro title="src/components/MyFavoritePokemon.astro"
----
-// Your component script here!
-import Banner from "../components/Banner.astro";
-import ReactPokemonComponent from "../components/ReactPokemonComponent.jsx";
-const myFavoritePokemon = [
-  /* ... */
-];
-const { title } = Astro.props;
----
+Thanks to Original Rippers, Encoders & Uploaders of MovieLinkBD.biz
 
-<!-- HTML comments supported! -->{/* JS comment syntax is also valid! */}
+If you believe that any content on this site violates your copyright,  
+Please send a takedown notice using a verifiable email address to: [\[email protected\]](/cdn-cgi/l/email-protection#87eae8f1eee2ebeee9ece5e3c7f7f5e8f3e8e9eae6eeeba9e4e8ea)  
+We will respond as soon as possible (usually within 3 days) to remove any infringing content.
 
-<Banner />
-<h1>Hello, world!</h1>
+(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://arvigorothan.com/tag.min.js',6218132,document.body||document.documentElement)
 
-<!-- Use props and other variables from the component script: -->
-<p>{title}</p>
+© 2024 MovieLinkBD.biz  
+  
 
-<!-- Include other UI framework components with a `client:` directive to hydrate: -->
-<ReactPokemonComponent client:visible />
-
-<!-- Mix HTML with JavaScript expressions, similar to JSX: -->
-<ul>
-  {myFavoritePokemon.map((data) => <li>{data.name}</li>)}
-</ul>
-
-<!-- Use a template directive to build class names from multiple strings or even objects! -->
-<p class:list={["add", "dynamic", { classNames: true }]}></p>
-```
-
-## Component-based design
-
-Components are designed to be **reusable** and **composable**. You can use components inside of other components to build more and more advanced UI. For example, a `Button` component could be used to create a `ButtonGroup` component:
-
-```astro title="src/components/ButtonGroup.astro"
----
-import Button from "./Button.astro";
----
-
-<div>
-  <Button title="Button 1" />
-  <Button title="Button 2" />
-  <Button title="Button 3" />
-</div>
-```
-
-## Component Props
-
-An Astro component can define and accept props. These props then become available to the component template for rendering HTML. Props are available on the `Astro.props` global in your frontmatter script.
-
-Here is an example of a component that receives a `greeting` prop and a `name` prop. Notice that the props to be received are destructured from the global `Astro.props` object.
-
-```astro "Astro.props"
----
-// src/components/GreetingHeadline.astro
-// Usage: <GreetingHeadline greeting="Howdy" name="Partner" />
-const { greeting, name } = Astro.props;
----
-
-<h2>{greeting}, {name}!</h2>
-```
-
-This component, when imported and rendered in other Astro components, layouts or pages, can pass these props as attributes:
-
-```astro /(\w+)=\S+/
----
-// src/components/GreetingCard.astro
-import GreetingHeadline from "./GreetingHeadline.astro";
-const name = "Astro";
----
-
-<h1>Greeting Card</h1>
-<GreetingHeadline greeting="Hi" name={name} />
-<p>I hope you have a wonderful day!</p>
-```
-
-You can also define your props with TypeScript with a `Props` type interface. Astro will automatically pick up the `Props` interface in your frontmatter and give type warnings/errors. These props can also be given default values when destructured from `Astro.props`.
-
-```astro ins={3-6}
----
-// src/components/GreetingHeadline.astro
-interface Props {
-  name: string;
-  greeting?: string;
-}
-
-const { greeting = "Hello", name } = Astro.props;
----
-
-<h2>{greeting}, {name}!</h2>
-```
-
-Component props can be given default values to use when none are provided.
-
-```astro ins="= "Hello"" ins="= "Astronaut""
----
-// src/components/GreetingHeadline.astro
-const { greeting = "Hello", name = "Astronaut" } = Astro.props;
----
-
-<h2>{greeting}, {name}!</h2>
-```
-
-## Slots
-
-The `<slot />` element is a placeholder for external HTML content, allowing you to inject (or "slot") child elements from other files into your component template.
-
-By default, all child elements passed to a component will be rendered in its `<slot />`
-
-:::note
-Unlike _props_, which are attributes passed to an Astro component available for use throughout your component with `Astro.props`, _slots_ render child HTML elements where they are written.
-:::
-
-```astro "<slot />"
----
-// src/components/Wrapper.astro
-import Header from "./Header.astro";
-import Logo from "./Logo.astro";
-import Footer from "./Footer.astro";
-
-const { title } = Astro.props;
----
-
-<div id="content-wrapper">
-  <Header />
-  <Logo />
-  <h1>{title}</h1>
-  <slot />
-  <!-- children will go here -->
-  <Footer />
-</div>
-```
-
-```astro {6-7}
----
-// src/pages/fred.astro
-import Wrapper from "../components/Wrapper.astro";
----
-
-<Wrapper title="Fred's Page">
-  <h2>All about Fred</h2>
-  <p>Here is some stuff about Fred.</p>
-</Wrapper>
-```
-
-This pattern is the basis of an [Astro layout component](/en/core-concepts/layouts/): an entire page of HTML content can be “wrapped” with `<SomeLayoutComponent></SomeLayoutComponent>` tags and sent to the component to render inside of common page elements defined there.
-
-### Named Slots
-
-An Astro component can also have named slots. This allows you to pass only HTML elements with the corresponding slot name into a slot's location.
-
-Slots are named using the `name` attribute:
-
-```astro /<slot .*?/>/
----
-// src/components/Wrapper.astro
-import Header from "./Header.astro";
-import Logo from "./Logo.astro";
-import Footer from "./Footer.astro";
-
-const { title } = Astro.props;
----
-
-<div id="content-wrapper">
-  <Header />
-  <slot name="after-header" />
-  <!--  children with the `slot="after-header"` attribute will go here -->
-  <Logo />
-  <h1>{title}</h1>
-  <slot />
-  <!--  children without a `slot`, or with `slot="default"` attribute will go here -->
-  <Footer />
-  <slot name="after-footer" />
-  <!--  children with the `slot="after-footer"` attribute will go here -->
-</div>
-```
-
-To inject HTML content into a particular slot, use the `slot` attribute on any child element to specify the name of the slot. All other child elements of the component will be injected into the default (unnamed) `<slot />`.
-
-```astro /slot=".*?"/
----
-// src/pages/fred.astro
-import Wrapper from "../components/Wrapper.astro";
----
-
-<Wrapper title="Fred's Page">
-  <img src="https://my.photo/fred.jpg" slot="after-header" />
-  <h2>All about Fred</h2>
-  <p>Here is some stuff about Fred.</p>
-  <p slot="after-footer">Copyright 2022</p>
-</Wrapper>
-```
-
-Use a `slot="my-slot"` attribute on the child element that you want to pass through to a matching `<slot name="my-slot" />` placeholder in your component.
-
-Note that named slots must be an immediate child of the component. You cannot pass named slots through nested elements.
-
-:::tip
-Named slots can also be passed to [UI framework components](/en/core-concepts/framework-components/)!
-:::
-
-:::note
-An astro slot name can not be dynamically generated, such as within a map function. If this feature is needed within UI framework components, it might be best to generate these dynamic slots within the framework itself.
-:::
-
-### Fallback Content for Slots
-
-Slots can also render **fallback content**. When there are no matching children passed to a slot, a `<slot />` element will render its own placeholder children.
-
-```astro {14}
----
-// src/components/Wrapper.astro
-import Header from "./Header.astro";
-import Logo from "./Logo.astro";
-import Footer from "./Footer.astro";
-
-const { title } = Astro.props;
----
-
-<div id="content-wrapper">
-  <Header />
-  <Logo />
-  <h1>{title}</h1>
-  <slot>
-    <p>This is my fallback content, if there is no child passed into slot</p>
-  </slot>
-  <Footer />
-</div>
-```
-
-### Transferring slots
-
-Slots can be transferred to other components. For example, when creating nested layouts:
-
-```astro title="src/layouts/BaseLayout.astro" {9,12}
----
-
----
-
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <slot name="head" />
-  </head>
-  <body>
-    <slot />
-  </body>
-</html>
-```
-
-```astro {6,7}
-// src/layouts/HomeLayout.astro
-
-import BaseLayout from './BaseLayout.astro';
-<BaseLayout>
-  <slot name="head" slot="head" />
-  <slot />
-</BaseLayout>
-```
-
-:::note
-Named slots can be transferred to another component using both the `name` and `slot` attributes on a `<slot />` tag
-:::
-
-Now, the default and `head` slots passed to `HomeLayout` will be transferred to the `BaseLayout` parent
-
-```astro
-// src/pages/index.astro
-
-import HomeLayout from '../layouts/HomeLayout.astro';
-<HomeLayout>
-  <title slot="head">Astro</title>
-  <h1>Astro</h1>
-</HomeLayout>
-```
-
-## HTML Components
-
-Astro supports importing and using `.html` files as components or placing these files within the `src/pages/` subdirectory as pages. You may want to use HTML components if you're reusing code from an existing site built without a framework, or if you want to ensure that your component has no dynamic features.
-
-HTML components must contain only valid HTML, and therefore lack key Astro component features:
-
-- They don't support frontmatter, server-side imports, or dynamic expressions.
-- Any `<script>` tags are left unbundled, treated as if they had `is:inline`.
-- They can only [reference assets that are in the `public/` folder](/en/core-concepts/project-structure/#public).
-
-:::note
-A [`<slot />` element](/en/core-concepts/astro-components/#slots) inside an HTML component will work as it would in an Astro component. In order to use the [HTML Web Component Slot](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot) element instead, add `is:inline` to your `<slot>` element.
-:::
-
-## Next Steps
-
-📚 Learn about using [UI framework components](/en/core-concepts/framework-components/) in your Astro project.
+var bLazy = new Blazy({ selector: 'img', success: function(element){ setTimeout(function(){ var parent = element.parentNode; parent.className = parent.className.replace(/\\bloading\\b/,''); }, 200); } });
